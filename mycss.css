@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body {  width: 100%;
+          height: 100vh;  
+	     background-image: url('avengers.jpg');	
+         background-attachment: fixed;
+         background-position: center;
+         background-size: 100% 100%;
+       }
+
+	     
+a{color: black;
+font-size: 110%;
+border-right: 1px solid black;
+font-weight:bold;
+font-family: 'Reggae One', cursive;} l
+
+            
