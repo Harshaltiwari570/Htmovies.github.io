@@ -18,6 +18,7 @@ font-family: 'Reggae One', cursive;}
 {
 	
 	.row{
+	width:80vw;	
 	display:flex;
 	flex-direction:column;
 	}
