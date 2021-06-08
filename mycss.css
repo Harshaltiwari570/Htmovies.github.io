@@ -16,6 +16,12 @@ font-family: 'Reggae One', cursive;}
 
 @media(max-width:1080px)
 {
+	
+	.row{
+	display:flex;
+	flex-direction:column;
+	}
+	
 	#first{
 	width:100%;
         height:50vh;
